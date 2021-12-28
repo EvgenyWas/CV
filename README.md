@@ -1,5 +1,5 @@
 # HM-2
 
-## Сделано:
-1. html для СV;
-2. Подключены стили css.
+## Done:
+1. html for the СV;
+2. Used styles css.
