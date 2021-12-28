@@ -4,4 +4,4 @@
 1. html for the СV;
 2. Used styles css.
 
-[DEMO](https://evgenywas.github.io/tms-hm/)
+[DEMO](https://evgenywas.github.io/tms-hm2/)
